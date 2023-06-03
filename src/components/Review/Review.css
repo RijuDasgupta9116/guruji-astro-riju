@@ -1,0 +1,15 @@
+.user-review{
+    height: 45vh;
+    background-color: rgb(255,239,227);
+}
+.review-box{
+    background-color: white;
+}
+.size-40{
+    font-size: 40px;
+}
+.width-80{
+    width: 80%;
+    margin: auto;
+    padding:3rem
+}
