@@ -1,0 +1,1 @@
+# guruji-astro-riju
